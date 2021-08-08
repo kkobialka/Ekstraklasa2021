@@ -55,6 +55,12 @@ $ jupyter notebook
 Polish football league Ekstraklasa is the top league in Poland. There is plenty of websites that provide statistics about football however there is lack of good visualisation for statistics of clubs and footballers. Even there is lack of good analysis.
 In this analysis there is data visualisation using plotly - python graphing library and matplotlib.
 
+Link to the Kaggle project:
+
+```
+https://www.kaggle.com/kkobialka/poland-football-league-ekstraklasa-20-21
+```
+
 # License
 
 Copyright © 2021 Krzysztof Kobiałka
