@@ -1,6 +1,6 @@
 # Donate
 
-If you like this app please donate
+If you like this project please donate
 
 Bitcoin:
 
@@ -38,10 +38,22 @@ Download or clone this repository
 $ git clone https://github.com/kkobialka/Ekstraklasa2021
 ```
 
-Install libraries using Conda:
+Create conda virtual environment
 
 ```
-$ conda install requirements.txt
+$ conda create --name myenv
+```
+
+Activate virtual environment
+
+```
+$ source activate myenv
+```
+
+Install libraries using Conda
+
+```
+$ conda install --file requirements.txt
 ```
 
 Open Jupyter Notebook in console
@@ -50,7 +62,7 @@ Open Jupyter Notebook in console
 $ jupyter notebook
 ```
 
-# About this app
+# About this prject
 
 Polish football league Ekstraklasa is the top league in Poland. There is plenty of websites that provide statistics about football however there is lack of good visualisation for statistics of clubs and footballers. Even there is lack of good analysis.
 In this analysis there is data visualisation using plotly - python graphing library and matplotlib.
